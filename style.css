@@ -4,6 +4,7 @@
     --primary-color:#059669;
     --gray-color:
     #6B7280;
+    --off-white:#F3F4F6;
 }
 
 body{
@@ -85,3 +86,10 @@ hr{
     text-align: center;
     color:var(--gray-color)
 }
+.section{
+    padding:2rem;
+}
+.section h1{
+    text-align: center;
+}
+.offwhite{background-color: var(--off-white);}
