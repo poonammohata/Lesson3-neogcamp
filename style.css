@@ -47,3 +47,24 @@ hr{
     display: inline;
     padding:0rem 0.5rem;
 }
+
+/* nav */
+.navigation{
+    background-color: var(--primary-color);
+    padding:1rem;
+    color: white;
+    border-bottom-left-radius:1rem ;
+}
+.navigation-brand{
+    font-weight: bold;
+}
+.navigation .links{
+    color:white;
+    padding:0rem 0.5rem;
+}
+.navigation .nav-align{
+    text-align: right;
+}
+.navigation .link-active{
+    font-weight: bold;
+}
