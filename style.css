@@ -11,6 +11,7 @@ body{
 hr{
     margin: 2rem 0rem;;
 }
+
 /* container */
 .container{
     padding-left: 1rem;
@@ -35,4 +36,14 @@ hr{
     border: 1px solid var(--primary-color);
     border-radius: 0.5rem;
     color: var(--primary-color);
+}
+
+/* lists  */
+.list-no-bullet{
+    list-style-type: none;
+}
+
+.list-item-inline{
+    display: inline;
+    padding:0rem 0.5rem;
 }
