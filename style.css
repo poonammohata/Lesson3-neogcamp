@@ -88,6 +88,10 @@ hr{
     text-align: center;
     color:var(--gray-color)
 }
+.heading-inverted{
+    color: var(--primary-color);
+    font-weight: bold;
+}
 .section{
     padding:2rem;
 }
