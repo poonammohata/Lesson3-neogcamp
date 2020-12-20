@@ -137,16 +137,24 @@ ul{
     padding-inline-start: 0px;
 }
 /* blog section */
+.blog{
+    color:#6B7280;
+}
 .blog h1{
     margin-bottom: 0;
-    color: var(--gray-color);
-    
+    color:#374151;  
 } 
+.blog h4{
+    color: #374151;
+}
+.blog ul{
+    margin-left: 0.5rem;
+    color: #9CA3AF;
+}
 .blog h3{
-    color:var(--gray-color);
+    color:#4B5563;
 }
 .blog p{
-    color: var(--gray-color);
     text-align:justify;
 }
 .blog img{
