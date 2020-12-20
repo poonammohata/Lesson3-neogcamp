@@ -31,7 +31,6 @@ hr{
     max-width: 500px;
     margin: auto;
 }
-
 /* links */
 .links{
     text-decoration: none;
@@ -136,4 +135,24 @@ footer li a{
 }
 ul{
     padding-inline-start: 0px;
+}
+/* blog section */
+.blog h1{
+    margin-bottom: 0;
+    color: var(--gray-color);
+}
+.blog h3{
+    color:var(--gray-color);
+}
+.blog p{
+    color: var(--gray-color);
+    text-align:justify;
+}
+.blog img{
+    padding: 1rem auto;
+}
+.blog iframe{
+    padding: 1rem auto;
+    max-width:450px;
+    margin: 0 auto;
 }
