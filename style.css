@@ -140,7 +140,8 @@ ul{
 .blog h1{
     margin-bottom: 0;
     color: var(--gray-color);
-}
+    
+} 
 .blog h3{
     color:var(--gray-color);
 }
@@ -150,9 +151,12 @@ ul{
 }
 .blog img{
     padding: 1rem auto;
+    max-width: 300px;
+    display: block;
+
 }
 .blog iframe{
     padding: 1rem auto;
-    max-width:450px;
-    margin: 0 auto;
+    max-width: 350px;
+    display: block;
 }
