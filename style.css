@@ -157,6 +157,12 @@ ul{
 .blog p{
     text-align:justify;
 }
+.blog-small{
+    display: block;
+}
+.blog-link{
+    display: inline-block;
+}
 .blog img{
     padding: 1rem auto;
     max-width: 350px;
